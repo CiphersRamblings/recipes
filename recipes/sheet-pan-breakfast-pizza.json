@@ -1,0 +1,47 @@
+{
+  "title": "Sheet Pan Breakfast Pizza",
+  "description": "This is an easy and delicious breakfast recipe!",
+  "source_url": "https://cookinginthemidwest.com/blog/sheet-pan-breakfast-pizza/",
+  "source_name": "Cooking in the Midwest",
+  "image": "https://cookinginthemidwest.com/wp-content/uploads/2024/04/savingPNG-7-1.jpg",
+  "servings": "8 people",
+  "prep_time": "25 min",
+  "cook_time": "10 min",
+  "total_time": "",
+  "tags": [
+    "breakfast",
+    "american",
+    "breakfast pizza",
+    "easy breakfast recipe"
+  ],
+  "ingredients": [
+    {
+      "group": "",
+      "items": [
+        "(2) 6.5 oz packages of Martha White Pizza Crust + oil and water",
+        "White Gravy (3 tbsp butter, 3 tbsp flour, and 2 cups of milk)",
+        "8-10 pieces of bacon",
+        "4 eggs",
+        "Shredded cheddar cheese",
+        "Shredded mozzarella cheese",
+        "Salt and pepper"
+      ]
+    }
+  ],
+  "steps": [
+    {
+      "group": "",
+      "items": [
+        "Cook 8-10 pieces of bacon however you'd like! I prefer to bake it in the oven at 400 degrees F on a sheet pan lined with parchment paper. Bake for 20-25 minutes.",
+        "Mix Martha White Pizza crust following the directions on the package. Spread the pizza crust out over a large sheet pan. Poke holes in the pizza crust and prebake following the directions on the package.",
+        "Scramble at least 4 eggs, season with some salt and pepper, and set aside.",
+        "Make the gravy by melting 3 tbsp of butter in a large skillet over medium high heat. Add 3 tbsp of flour and stir together. Let flour and butter cook for one minute. Add 2 cups of milk and stir continuously until gravy reaches your desired consistency seasoning with salt and pepper.",
+        "After prebaking the pizza crust, spread some of the gravy over the top (I didn't quite use all the gravy I made). Top with both kinds of shredded cheese, eggs, and chopped bacon.",
+        "Bake at 475 degrees F for about 10 minutes or until all the cheese is melted. Enjoy!"
+      ]
+    }
+  ],
+  "notes": [],
+  "added": "2026-11-12",
+  "slug": "sheet-pan-breakfast-pizza"
+}
