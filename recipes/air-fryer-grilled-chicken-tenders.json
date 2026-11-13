@@ -1,0 +1,35 @@
+{
+  "title": "Air Fryer Grilled Chicken Tenders",
+  "description": "Juicy, simply seasoned chicken tenders cooked in the air fryer in about 10 minutes.",
+  "source_url": "https://littlehousebigalaska.com/2022/03/air-fryer-grilled-chicken-tenders.html",
+  "source_name": "Little House Big Alaska",
+  "image": "",
+  "servings": "6",
+  "prep_time": "5 min",
+  "cook_time": "10 min",
+  "total_time": "15 min",
+  "tags": ["dinner", "chicken", "air fryer", "american", "quick"],
+  "ingredients": [
+    {"group": "", "items": [
+      "1 1/2 lb chicken tenderloins",
+      "2 tbsp light olive oil (or any oil)",
+      "1 tsp garlic powder",
+      "1 tsp paprika",
+      "1 tsp Italian seasoning",
+      "1/2 tsp salt",
+      "1/4 tsp black pepper"
+    ]}
+  ],
+  "steps": [
+    {"group": "", "items": [
+      "Preheat the air fryer to 400°F for 5 minutes.",
+      "Toss the chicken with the oil.",
+      "Mix the garlic powder, paprika, Italian seasoning, salt and pepper, sprinkle over the chicken and toss until completely coated.",
+      "Lay the tenders in the hot basket in a single layer, cooking in two batches if needed.",
+      "Cook for 7 minutes, then check. If needed, cook 2–3 minutes more until the chicken reaches 165°F on a digital thermometer.",
+      "Serve hot, or chill until ready to use."
+    ]}
+  ],
+  "notes": [],
+  "added": "2026-11-12"
+}
