@@ -1,0 +1,27 @@
+{
+  "title": "Garlic Butter Shrimp Pasta",
+  "description": "Lemony, garlicky shrimp tossed with spaghetti in a glossy butter sauce.",
+  "source_url": "",
+  "source_name": "House recipe",
+  "image": "",
+  "servings": "4",
+  "prep_time": "10 min",
+  "cook_time": "15 min",
+  "total_time": "25 min",
+  "tags": ["dinner", "pasta", "seafood", "italian", "quick"],
+  "ingredients": [
+    {"group": "", "items": ["12 oz spaghetti", "1 lb large shrimp, peeled and deveined", "4 tbsp butter, divided", "1 tbsp olive oil", "6 garlic cloves, thinly sliced", "1/4 tsp red pepper flakes", "1/2 cup dry white wine or chicken broth", "1 lemon, zested and juiced", "1/4 cup chopped parsley", "1/3 cup grated Parmesan", "Salt and pepper"]}
+  ],
+  "steps": [
+    {"group": "", "items": [
+      "Cook the spaghetti in well-salted boiling water until al dente. Reserve 1 cup of pasta water, then drain.",
+      "Meanwhile, pat the shrimp dry and season with salt and pepper. Heat the oil and 1 tbsp butter in a large skillet over medium-high heat and cook the shrimp 1–2 minutes per side until just pink. Transfer to a plate.",
+      "Lower the heat to medium. Add 1 tbsp butter, the garlic and pepper flakes and cook 1 minute until the garlic is golden.",
+      "Pour in the wine and simmer 2 minutes until reduced by half.",
+      "Add the pasta, remaining butter, lemon juice and zest, and a splash of pasta water. Toss until glossy, adding more water if needed.",
+      "Return the shrimp, add the parsley and Parmesan, and toss once more. Serve right away."
+    ]}
+  ],
+  "notes": [],
+  "added": "2026-11-12"
+}

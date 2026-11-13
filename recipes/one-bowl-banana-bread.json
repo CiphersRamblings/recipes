@@ -1,0 +1,27 @@
+{
+  "title": "One-Bowl Banana Bread",
+  "description": "A moist, deeply banana-y loaf that's the best use for spotty bananas.",
+  "source_url": "",
+  "source_name": "House recipe",
+  "image": "",
+  "servings": "1 loaf",
+  "prep_time": "10 min",
+  "cook_time": "1 hr",
+  "total_time": "1 hr 10 min",
+  "tags": ["dessert", "baking", "vegetarian", "breakfast"],
+  "ingredients": [
+    {"group": "", "items": ["3 very ripe bananas", "1/3 cup melted butter", "3/4 cup brown sugar", "1 large egg", "1 tsp vanilla extract", "1 tsp baking soda", "1/4 tsp salt", "1 1/2 cups all-purpose flour", "1/2 cup chopped walnuts or chocolate chips (optional)"]}
+  ],
+  "steps": [
+    {"group": "", "items": [
+      "Heat the oven to 350°F (175°C) and grease a 9x5-inch loaf pan.",
+      "Mash the bananas in a large bowl, then stir in the melted butter.",
+      "Mix in the brown sugar, egg and vanilla.",
+      "Sprinkle the baking soda and salt over the batter and stir, then fold in the flour (and nuts or chips) until no dry streaks remain.",
+      "Pour into the pan and bake 55–65 minutes, until a skewer in the center comes out clean.",
+      "Cool in the pan for 10 minutes, then turn out onto a rack."
+    ]}
+  ],
+  "notes": ["Tent with foil after 40 minutes if the top browns too fast."],
+  "added": "2026-11-12"
+}

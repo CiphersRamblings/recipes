@@ -1,0 +1,27 @@
+{
+  "title": "Crispy Black Bean Tacos",
+  "description": "Pan-crisped tortillas stuffed with spiced black beans and melty cheese.",
+  "source_url": "",
+  "source_name": "House recipe",
+  "image": "",
+  "servings": "4",
+  "prep_time": "10 min",
+  "cook_time": "15 min",
+  "total_time": "25 min",
+  "tags": ["dinner", "vegetarian", "mexican", "beans", "quick"],
+  "ingredients": [
+    {"group": "Filling", "items": ["2 (15 oz) cans black beans, drained and rinsed", "1 tsp ground cumin", "1 tsp chili powder", "1/2 tsp salt", "1/2 cup salsa", "1 1/2 cups shredded Monterey Jack"]},
+    {"group": "To finish", "items": ["10 corn tortillas", "Vegetable oil, for the pan", "Shredded cabbage, avocado and lime wedges, to serve"]}
+  ],
+  "steps": [
+    {"group": "", "items": [
+      "Mash the beans roughly with the cumin, chili powder, salt and salsa in a bowl.",
+      "Warm the tortillas in the microwave under a damp towel for 30 seconds so they bend without cracking.",
+      "Spread a spoonful of beans over half of each tortilla, top with cheese and fold.",
+      "Heat a thin layer of oil in a large skillet over medium heat. Fry the tacos in batches for 2–3 minutes per side until crisp and the cheese melts.",
+      "Drain on paper towels and stuff with cabbage and avocado. Serve with lime."
+    ]}
+  ],
+  "notes": ["Pinto beans or refried beans swap in easily."],
+  "added": "2026-11-12"
+}

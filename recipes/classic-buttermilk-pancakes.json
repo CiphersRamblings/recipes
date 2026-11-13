@@ -1,0 +1,26 @@
+{
+  "title": "Classic Buttermilk Pancakes",
+  "description": "Tall, fluffy diner-style pancakes with crisp, buttery edges.",
+  "source_url": "",
+  "source_name": "House recipe",
+  "image": "",
+  "servings": "12 pancakes",
+  "prep_time": "10 min",
+  "cook_time": "15 min",
+  "total_time": "25 min",
+  "tags": ["breakfast", "vegetarian", "quick"],
+  "ingredients": [
+    {"group": "", "items": ["2 cups all-purpose flour", "2 tbsp sugar", "1 1/2 tsp baking powder", "1/2 tsp baking soda", "1/2 tsp salt", "2 cups buttermilk", "2 large eggs", "3 tbsp melted butter, plus more for the pan"]}
+  ],
+  "steps": [
+    {"group": "", "items": [
+      "Whisk the flour, sugar, baking powder, baking soda and salt in a large bowl.",
+      "In another bowl, whisk the buttermilk, eggs and melted butter.",
+      "Pour the wet ingredients into the dry and stir just until combined — lumps are fine. Rest the batter 5 minutes.",
+      "Heat a griddle or skillet over medium heat and brush with butter. Pour 1/4 cup batter per pancake.",
+      "Cook until bubbles form on top and the edges look set, about 2 minutes, then flip and cook 1–2 minutes more."
+    ]}
+  ],
+  "notes": ["No buttermilk? Stir 2 tbsp lemon juice into 2 cups milk and let it stand 5 minutes."],
+  "added": "2026-11-12"
+}

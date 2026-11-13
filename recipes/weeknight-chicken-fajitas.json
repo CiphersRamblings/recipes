@@ -1,0 +1,27 @@
+{
+  "title": "Weeknight Chicken Fajitas",
+  "description": "Smoky, charred chicken and peppers wrapped in warm tortillas, ready in half an hour.",
+  "source_url": "",
+  "source_name": "House recipe",
+  "image": "",
+  "servings": "4",
+  "prep_time": "10 min",
+  "cook_time": "20 min",
+  "total_time": "30 min",
+  "tags": ["dinner", "chicken", "mexican", "quick"],
+  "ingredients": [
+    {"group": "Spice rub", "items": ["2 tsp chili powder", "1 tsp ground cumin", "1 tsp smoked paprika", "1/2 tsp garlic powder", "1 tsp salt", "1 lime, juiced"]},
+    {"group": "Fajitas", "items": ["1 1/2 lb boneless chicken thighs, sliced into strips", "2 bell peppers, sliced", "1 large onion, sliced", "2 tbsp vegetable oil", "8 small flour tortillas", "Sour cream, salsa and cilantro, to serve"]}
+  ],
+  "steps": [
+    {"group": "", "items": [
+      "Toss the chicken with the spice rub ingredients and let it sit while you slice the vegetables.",
+      "Heat 1 tbsp oil in a large skillet over high heat until shimmering. Cook the chicken in a single layer, without stirring, for 3 minutes, then stir and cook 3–4 minutes more until charred and cooked through. Transfer to a plate.",
+      "Add the remaining oil, peppers and onion to the pan. Cook 6–8 minutes, stirring occasionally, until softened with charred edges.",
+      "Return the chicken to the pan and toss for 1 minute to combine.",
+      "Warm the tortillas in a dry pan or wrapped in foil in the oven, then serve with the filling and toppings."
+    ]}
+  ],
+  "notes": ["Thighs stay juicier than breasts at high heat, but breasts work if sliced thin."],
+  "added": "2026-11-12"
+}

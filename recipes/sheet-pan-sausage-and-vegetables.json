@@ -1,0 +1,25 @@
+{
+  "title": "Sheet Pan Sausage and Vegetables",
+  "description": "A one-pan roast of smoked sausage, potatoes and vegetables with almost no cleanup.",
+  "source_url": "",
+  "source_name": "House recipe",
+  "image": "",
+  "servings": "4",
+  "prep_time": "15 min",
+  "cook_time": "30 min",
+  "total_time": "45 min",
+  "tags": ["dinner", "sausage", "sheet pan"],
+  "ingredients": [
+    {"group": "", "items": ["14 oz smoked sausage, sliced into coins", "1 1/2 lb baby potatoes, halved", "2 cups broccoli florets", "1 red bell pepper, chopped", "1 red onion, cut into wedges", "3 tbsp olive oil", "1 tsp Italian seasoning", "1 tsp garlic powder", "1 tsp salt", "1/2 tsp black pepper"]}
+  ],
+  "steps": [
+    {"group": "", "items": [
+      "Heat the oven to 425°F (220°C) and line a large sheet pan with foil or parchment.",
+      "Toss the potatoes with 1 tbsp oil and a pinch of salt and roast for 15 minutes.",
+      "Toss the sausage and remaining vegetables with the rest of the oil and seasonings.",
+      "Add them to the pan with the potatoes, spread in a single layer, and roast 15–20 minutes more until the potatoes are tender and everything is browned."
+    ]}
+  ],
+  "notes": ["Use two pans if crowded — crowding steams the vegetables instead of browning them."],
+  "added": "2026-11-12"
+}
